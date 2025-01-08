@@ -1,0 +1,14 @@
+C:\Users\trucn\source\repos\QuickPythagoras\obj\Debug\net8.0\QuickPythagoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trucn\source\repos\QuickPythagoras\obj\Debug\net8.0\QuickPythagoras.AssemblyInfoInputs.cache
+C:\Users\trucn\source\repos\QuickPythagoras\obj\Debug\net8.0\QuickPythagoras.AssemblyInfo.cs
+C:\Users\trucn\source\repos\QuickPythagoras\obj\Debug\net8.0\QuickPythagoras.csproj.CoreCompileInputs.cache
+C:\Users\trucn\source\repos\QuickPythagoras\bin\Debug\net8.0\QuickPythagoras.exe
+C:\Users\trucn\source\repos\QuickPythagoras\bin\Debug\net8.0\QuickPythagoras.deps.json
+C:\Users\trucn\source\repos\QuickPythagoras\bin\Debug\net8.0\QuickPythagoras.runtimeconfig.json
+C:\Users\trucn\source\repos\QuickPythagoras\bin\Debug\net8.0\QuickPythagoras.dll
+C:\Users\trucn\source\repos\QuickPythagoras\bin\Debug\net8.0\QuickPythagoras.pdb
+C:\Users\trucn\source\repos\QuickPythagoras\obj\Debug\net8.0\QuickPythagoras.dll
+C:\Users\trucn\source\repos\QuickPythagoras\obj\Debug\net8.0\refint\QuickPythagoras.dll
+C:\Users\trucn\source\repos\QuickPythagoras\obj\Debug\net8.0\QuickPythagoras.pdb
+C:\Users\trucn\source\repos\QuickPythagoras\obj\Debug\net8.0\QuickPythagoras.genruntimeconfig.cache
+C:\Users\trucn\source\repos\QuickPythagoras\obj\Debug\net8.0\ref\QuickPythagoras.dll
