@@ -1,4 +1,5 @@
 Quick Calc Pythagoras while im bored.<br />
+And simple expression like +, -, *, /
 This also help me in War Thunder.<br />
 "For who just joined stream. Calc is short for calculator, chat."<br />
 
